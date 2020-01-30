@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SuiteCRMProject" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="testClasses.Activity3"/>
+      <class name="testClasses.Activity11"/>
+    </classes>
+  </test> 
+</suite> 
